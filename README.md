@@ -1,6 +1,6 @@
 Hi, it's Zhab here! 🤍
 
-Idk what else to put here, so I'm dumping these links below.
+Idk what else to put, so let me just dump these links below. 🧍‍♀️
 ___
 I used the following repositories below and edited them accordingly: 
 * https://github.com/seandavi/GEOquery
