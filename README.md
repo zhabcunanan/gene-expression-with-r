@@ -1,4 +1,6 @@
-Hi, it's Zhab here! I am a 2nd-year Biology student 🧬 (as of 2026). 🤍
+Hi, it's Zhab here! 🤍
+
+🧬 I am a 2nd-year Biology student (as of 2026).
 
 Computer & Data Science used to be a field I feared the most, but after playing around with it
 (and after exploring random datasets) I made it a challenge to start a few projects. ✨
